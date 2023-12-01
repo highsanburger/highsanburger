@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pure Functional Programming.**
 
-- 👨‍💻 All of my projects are available at [h](h)
+- 👨‍💻 All of my projects are available at [here lol](https://github.com/highsanburger)
 
 - 💬 Ask me about **Haskell.**
 
