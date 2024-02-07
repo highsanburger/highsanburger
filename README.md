@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Lambda Calculus**
+- 🔭 I’m currently working on **HTMX**
 
-- 🌱 I’m currently learning **Pure Functional Programming.**
+- 🌱 I’m currently learning **Embedded Systems.**
 
 - 👨‍💻 All of my projects are available at [here lol](https://github.com/highsanburger)
 
